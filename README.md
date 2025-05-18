@@ -1,0 +1,2 @@
+# python_virtual_joystick_USART
+使用UART协议，通过串口传输一组适用于遥控的数据。
